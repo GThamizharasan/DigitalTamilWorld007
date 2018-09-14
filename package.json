@@ -1,6 +1,6 @@
 {
-    "name": "express-HelloWorld",
-    "description": "Hello World Node Express web application",
+    "name": "Digital Tamil World",
+    "description": "Connecting Tamil People by the Heart",
     "version": "0.0.1",
     "private": true,
     "dependencies": {
