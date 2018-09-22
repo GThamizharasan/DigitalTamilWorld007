@@ -2,7 +2,7 @@
     "name": "Digital Tamil World",
     "description": "Connecting Tamil People by the Heart",
     "version": "0.0.1",
-    "private": true,
+    "private": false,
     "dependencies": {
         "express": "4.16.2"
     },
